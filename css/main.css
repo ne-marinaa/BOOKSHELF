@@ -207,33 +207,6 @@ font-size: 30px
   font-size: 15px;
 }
 
-footer{
-  padding: 50px 0;
-}
-
-footer ul{
-  list-style-type: none;
-  column-count: 3;
-}
-
-footer ul li{
-  display: block;
-  margin-bottom: .5em;
-}
-
-footer ul a{
-  color: #000;
-  text-decoration: none;
-  -webkit-transition: color .4s ease;
-  -o-transition: color .4s ease;
-  transition: color .4s ease;
-}
-
-footer ul a:hover{
-  color: #B67E44;
-  ;
-}
-
 .hamburger {
   display: none;
 }
